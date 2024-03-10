@@ -1,0 +1,19 @@
+
+.moda, .casa{
+
+    color: #FFFF;
+
+}
+
+.moda .cabecalho-moda{
+    background-color: #BB86FC;
+}
+
+
+.casa .cabecalho-casa{
+    background-color: #00C4B4;    
+}
+
+.produtos-moda, .produtos-casa{
+background-color:  #424250;
+}
