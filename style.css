@@ -1,0 +1,12 @@
+
+
+
+ul li{
+    font-size: 24px;
+    text-align: center;
+    list-style: none;
+    border: 1px solid lightgrey;
+}
+a:hover{
+    background-color: aquamarine;
+}
